@@ -1,0 +1,23 @@
+body{
+    background-color:  #f40000!important;
+}
+.container-fluid{
+    background-color: black !important;
+    color: white;
+    border-radius: 5px;
+}
+.container{
+    border-radius: 5px;
+    margin-top: 3%;
+    background-color: white;
+}
+.header-contact{
+    color: blue;
+}
+.cw{
+    color:white;
+
+}
+#boton{
+    background-color: black;
+}
